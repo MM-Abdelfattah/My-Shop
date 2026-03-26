@@ -45,7 +45,7 @@ export default function CartPage() {
     <>
       <nav>
         <ul>
-          <h3>This is the Crate page</h3>
+          <h3>Cart</h3>
           <li>
             <Link to={"/"}>Home Page</Link>
           </li>
