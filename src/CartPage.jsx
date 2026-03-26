@@ -47,10 +47,10 @@ export default function CartPage() {
         <ul>
           <h3>Cart</h3>
           <li>
-            <Link to={"/"}>Home Page</Link>
+            <Link to={"/"}>Home</Link>
           </li>
           <li>
-            <Link to={"/ShopPageAPI"}>Shop Page</Link>
+            <Link to={"/ShopPageAPI"}>Shop</Link>
           </li>
         </ul>
       </nav>
