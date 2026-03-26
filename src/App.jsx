@@ -7,7 +7,7 @@ function App() {
     <>
       <nav>
         <ul>
-          <h2>This is the home page</h2>
+          <h2>Shop</h2>
           <li>
             <Link to={"/ShopPageAPI"}>Shop Page</Link>
           </li>

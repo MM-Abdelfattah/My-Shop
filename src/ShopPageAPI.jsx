@@ -69,13 +69,13 @@ export default function ShopPageAPI() {
     <>
       <nav>
         <ul>
-          <h2>This is the shoping page</h2>
+          <h2>Shop</h2>
           <li>
-            <Link to={"/"}>Home Page</Link>
+            <Link to={"/"}>Home</Link>
           </li>
           <li>
             <Link to={"/CartPage"} state={{ items: ShopItems }}>
-              Cart Page
+              Cart
             </Link>
           </li>
         </ul>
